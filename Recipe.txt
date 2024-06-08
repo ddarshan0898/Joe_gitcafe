@@ -1,0 +1,13 @@
+Create a GitHub Account.
+Create a new GitHub Repository with name “Joe_gitcafe”.
+Configure remote for the local git repository gitCafe and push the changes to “Joe_gitcafe” on GitHub.
+Commit a new file café_branch1_menu.md file at the root of the local git repository with title “Joe’s café - branch1 menu” and Push the file to GitHub.
+Using GitHub interface, commit another new file café_branch2_menu.md file at the root of the local git repository with title “Joe’s café – branch2 menu”.
+Create a new branch called “signature_recipes” from GitHub interface.
+Pull the latest changes to local repository using git pull.
+Add a new file signature_latte.txt into the branch by adding and committing it under recipes folder.
+Push the new branch and the changes into GitHub repo.
+Raise a pull request from the branch “signature_recipes” to “master”. Include one of your friends as a Code reviewer adding their GH handle (s) as reviewers.
+Have a code review comment provided to modify the Menu file by adding the reference to the new signature_latte into the menu.
+Address the code review comment by including the suggested change and resolving the comment.
+After all the comments are resolved, have the reviewers approve the pull request and finally merge the changes.
